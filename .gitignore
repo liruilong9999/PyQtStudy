@@ -1,0 +1,5 @@
+/src/.idea/*
+/src/build/*
+/src/*.spec
+__pycache__/
+/src/dist/*
